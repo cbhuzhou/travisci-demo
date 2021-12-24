@@ -16,7 +16,7 @@ deploy:
   skip_cleanup: true
   local_dir: dist/
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
+  keep_history: false
   name: cbhuzhou
   email: 1454812192@qq.com
   on:
