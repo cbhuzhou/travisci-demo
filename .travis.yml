@@ -20,4 +20,4 @@ deploy:
   name: cbhuzhou
   email: 1454812192@qq.com
   on:
-    branch: main
+    branch: master
